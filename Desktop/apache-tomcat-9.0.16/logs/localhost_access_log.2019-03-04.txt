@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/Mar/2019:20:53:18 +0100] "GET /firstApp/hello HTTP/1.1" 500 3723
+127.0.0.1 - - [04/Mar/2019:20:53:18 +0100] "GET /favicon.ico HTTP/1.1" 200 8192
+127.0.0.1 - - [04/Mar/2019:20:59:27 +0100] "GET /firstApp/hello HTTP/1.1" 404 1047
+127.0.0.1 - - [04/Mar/2019:21:02:42 +0100] "GET /firstApp/hello HTTP/1.1" 404 1047
+127.0.0.1 - - [04/Mar/2019:21:02:52 +0100] "GET /firstApp/hello HTTP/1.1" 404 1047
+127.0.0.1 - - [04/Mar/2019:21:05:32 +0100] "GET /firstApp/hello HTTP/1.1" 500 3723
+127.0.0.1 - - [04/Mar/2019:21:05:42 +0100] "GET /firstApp/hello HTTP/1.1" 404 1047
+127.0.0.1 - - [04/Mar/2019:21:05:45 +0100] "GET /firstApp/hello HTTP/1.1" 404 1047
+127.0.0.1 - - [04/Mar/2019:21:05:45 +0100] "GET /firstApp/hello HTTP/1.1" 404 1047
+127.0.0.1 - - [04/Mar/2019:21:05:46 +0100] "GET /firstApp/hello HTTP/1.1" 404 1047

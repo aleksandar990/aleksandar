@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Denes"
+echo "e"
+read n "$9"
+echo "mart"
